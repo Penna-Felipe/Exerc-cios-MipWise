@@ -1,1 +1,1 @@
-# Exerc-cios-MipWise
+# Exercicios-MipWise
